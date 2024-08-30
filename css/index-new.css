@@ -25,7 +25,7 @@ footer h4 span:after {
 }
 
 .text-green {
-    color: #396 !important
+    color: #1dd3f9 !important
 }
 
 .heading-2 {
@@ -182,7 +182,7 @@ footer h4 span:after {
 }
 
 .services .boxes-row .flipbox .hover-text {
-    background-color: #396;
+    background-color: #1dd3f9;
     color: #fff;
     transform: rotateY(180deg)
 }
@@ -197,7 +197,7 @@ footer h4 span:after {
 
 .clients,
 .technology {
-    background: #e2e4e8;
+    /* background: #e2e4e8; */
     padding: 70px 0
 }
 
@@ -324,7 +324,7 @@ footer h4 span:after {
 
 .industry .content-col ul.nav li a.active,
 .industry .content-col ul.nav li a:hover {
-    background: #396;
+    background: #1dd3f9;
     color: #fff
 }
 
@@ -361,7 +361,7 @@ footer h4 span:after {
 }
 
 .testimonial blockquote svg path {
-    fill: #396
+    fill: #1dd3f9
 }
 
 .feedbacks .item:hover path {
@@ -402,7 +402,7 @@ footer h4 span:after {
 
 .owl-carousel .owl-nav button.owl-next,
 .owl-carousel .owl-nav button.owl-prev {
-    background: #396
+    background: #1dd3f9
 }
 
 .owl-carousel .owl-nav button.owl-next:hover,
@@ -520,7 +520,7 @@ footer h4 span:after {
 }
 
 .we-better .box:hover {
-    background: #396
+    background: #1dd3f9
 }
 
 .we-better .box p {
@@ -821,7 +821,7 @@ footer .link div {
     }
 
     .services .boxes-row .flipbox:hover {
-        background: #396;
+        background: #1dd3f9;
         color: #fff
     }
 
@@ -1042,7 +1042,7 @@ footer .link div {
 
 .industry .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots.active .owl-dot:hover span {
-    background: #396
+    background: #1dd3f9
 }
 
 .services-first-blk {
@@ -1124,12 +1124,12 @@ footer .link div {
 
     .industry .content-col ul.nav li a.active,
     .industry .content-col ul.nav li a:hover {
-        color: #396;
+        color: #1dd3f9;
         background: 0 0
     }
 
     .industry .content-col ul.nav li a.active {
-        border-bottom: solid 3px #396
+        border-bottom: solid 3px #1dd3f9
     }
 
     .clients .client-carousal .owl-nav {
@@ -1214,7 +1214,7 @@ footer .link div {
     margin: -76px 0 0 -76px;
     border: 16px solid #d8d7d7;
     border-radius: 50%;
-    border-top: 16px solid #396;
+    border-top: 16px solid #1dd3f9;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite
 }
@@ -1315,7 +1315,7 @@ ul.bltd li {
 .our-solution-tab .nav-tabs .nav-item.show .nav-link,
 .our-solution-tab .nav-tabs .nav-link.active {
     border-radius: 0;
-    background-color: #396;
+    background-color: #1dd3f9;
     color: #e2e4e8 !important;
     -webkit-box-shadow: 0 2px 20px 0 rgb(0 0 0/30%);
     box-shadow: 0 2px 20px 0 rgb(0 0 0/30%);
