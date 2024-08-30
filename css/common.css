@@ -83,7 +83,7 @@ a:focus {
 }
 
 .text-link {
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 600;
     font-size: 14px;
     margin: 0;
@@ -109,7 +109,7 @@ svg .eyes {
 .btn {
     position: relative;
     font-size: 16px;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     letter-spacing: .5px;
     padding: 8px 30px;
@@ -195,7 +195,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     letter-spacing: 1px
 }
 
@@ -321,7 +321,7 @@ h5 {
 
 .navbar-expand-md h5 {
     margin: 0;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 500;
     font-size: 16px;
     letter-spacing: .5px;
@@ -385,7 +385,7 @@ h5 {
 .navbar-expand-md .dropdown-menu a,
 .navbar-expand-md .link-label {
     color: #545454;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     letter-spacing: .5px;
     font-size: 16px
@@ -499,7 +499,7 @@ h5 {
 
 .siderbar-form form.form-view .form-control {
     height: 50px;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 16px;
     color: #333;
@@ -559,7 +559,7 @@ form.form-view .icon rect {
 
 .siderbar-form form.form-view .form-error {
     color: brown;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 14px
 }
@@ -1807,14 +1807,14 @@ form.form-view .icon rect {
 }
 
 .hero-section h1 {
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 20px
 }
 
 .hero-section p {
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 300;
     letter-spacing: .5px;
     margin-bottom: 30px
@@ -1909,7 +1909,7 @@ form.form-view .icon rect {
 
 .c2a .form-control {
     height: 50px;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 16px;
     color: #fff;
@@ -2019,7 +2019,7 @@ form.form-view .icon rect {
 
 .main-section p,
 .main-section ul {
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     color: #333;
     font-weight: 400;
     letter-spacing: .5px
@@ -2560,7 +2560,7 @@ form.form-view .icon rect {
 
 .c2a form .form-error {
     color: #e13131;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 14px;
     display: flex;
@@ -2825,7 +2825,7 @@ form.form-view .icon rect {
 
 .custom-popup form.form-view .form-control {
     height: 50px;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 16px;
     color: #fff;
@@ -2882,7 +2882,7 @@ form.form-view .icon rect {
     line-height: 50px;
     width: 100%;
     cursor: pointer;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 16px;
     color: grey;
@@ -2941,7 +2941,7 @@ form.form-view .icon rect {
 
 .custom-popup form.form-view .form-error {
     color: #e13131;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     font-size: 14px
 }
@@ -3051,7 +3051,7 @@ footer .links-row a,
 footer .links-row div {
     color: #fff;
     line-height: 24px;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 400;
     letter-spacing: .5px;
     font-size: 14px
@@ -3142,7 +3142,7 @@ footer .addresses h5 {
 }
 
 footer .addresses h6 {
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     color: #fff;
     font-weight: 400;
     letter-spacing: .5px;
@@ -3221,7 +3221,7 @@ footer .addresses p a:hover {
     color: #293357;
     font-size: 18px;
     line-height: 24px;
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     letter-spacing: 1px;
     position: relative
 }
@@ -3243,7 +3243,7 @@ footer .addresses p a:hover {
     color: #333;
     font-size: 45px;
     line-height: 65px;
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     height: 100%;
     width: 40px;
     display: flex;
@@ -3262,7 +3262,7 @@ footer .addresses p a:hover {
 .according-menu .card .card-body {
     margin: 0;
     padding: 25px;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     color: #333;
     font-weight: 400;
     letter-spacing: .5px;
@@ -3281,7 +3281,6 @@ footer .addresses p a:hover {
 footer {
     padding: 0;
     margin: 0;
-    background: #dee7f3;
     border: none;
     /* border-radius: 99% 99% 0 0/9% */
 }
@@ -3304,7 +3303,7 @@ footer .links-section {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     color: #333;
     font-weight: 400
 }
@@ -3488,14 +3487,14 @@ footer .links-section {
 }
 
 #free-webinar h3 {
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     color: #23305e;
     font-size: 30px;
     margin: 0 0 10px
 }
 
 #free-webinar p {
-    font-family: open sans, sans-serif;
+    font-family: "Lato-Regular";
     font-size: 17px;
     font-weight: 600;
     margin: 0 auto 10px;
@@ -3542,7 +3541,7 @@ footer .links-section {
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
-    font-family: Raleway, sans-serif;
+    font-family: "Lato-Regular";
     font-weight: 500
 }
 
