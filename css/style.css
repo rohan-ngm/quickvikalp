@@ -947,3 +947,25 @@ body {
     margin-bottom: 50px;
   }
 }
+
+.half-star {
+  position: relative;
+  display: inline-block;
+  color: #27aae2;
+}
+
+.half-star::before {
+  content: '\f005'; /* Unicode for star */
+  font-family: FontAwesome;
+  position: absolute;
+  left: 0;
+  width: 50%;
+  overflow: hidden;
+  color: #27aae2;
+}
+
+.half-star::after {
+  content: '\f005'; /* Unicode for star */
+  font-family: FontAwesome;
+  color: lightgray;
+}
