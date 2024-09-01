@@ -29,7 +29,7 @@ footer h4 span:after {
 }
 
 .heading-2 {
-    color: #293357;
+    color: black;
     font-weight: 700;
     font-size: 29px;
     line-height: 40px
@@ -178,7 +178,7 @@ footer h4 span:after {
 
 .services .boxes-row .flipbox .visible-text h3 {
     line-height: 28px;
-    color: #1d3ede
+    color: black
 }
 
 .services .boxes-row .flipbox .hover-text {
@@ -516,7 +516,7 @@ footer h4 span:after {
 }
 
 .we-better .box h4 {
-    color: #1d3ede
+    color: black
 }
 
 .we-better .box:hover {
