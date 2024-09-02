@@ -597,7 +597,7 @@
               <div class="col">
                 <div class="box bg-python">
                   <h2>
-                    <a href="" class="python">
+                    <a>
                       <svg version="1.1" viewBox="0 0 64 64" width="64" height="64">
                         <path
                           d="m31.781 2.0029c-15.232 1.1e-6 -14.28 6.6399-14.28 6.6399l0.01698 6.8791h14.535v2.0654h-20.308s-9.747-1.1112-9.747 14.338c-1.1e-6 15.449 8.507 14.901 8.507 14.901h5.0771v-7.1691s-0.27367-8.5516 8.3712-8.5516h14.416s8.0995 0.13162 8.0995-7.8688v-13.229c0-1e-6 1.2298-8.0054-14.688-8.0054zm-8.0147 4.6258c1.4461-1.1e-6 2.615 1.175 2.615 2.6287 1e-6 1.4537-1.1688 2.6287-2.615 2.6287-1.4461 1e-6 -2.615-1.175-2.615-2.6287-1e-6 -1.4537 1.1688-2.6287 2.615-2.6287z"
@@ -772,7 +772,8 @@
               <div class="col">
                 <div class="box bg-aws">
                   <h2>
-                      <svg viewBox="0 0 254 254" xmlns="http://www.w3.org/2000/svg" width="254" height="254"
+                    <a>
+                      <svg viewBox="0 0 254 254" xmlns="http://www.w3.org/2000/svg" width="100" height="100"
                         class="icon">
                         <path
                           d="m93.667 196.43s-9.7064 5.6446 6.9077 7.5547c20.128 2.2962 30.415 1.9669 52.595-2.2312 0 0 5.8315 3.6565 13.976 6.8235-49.723 21.311-112.53-1.2344-73.479-12.147"
@@ -818,7 +819,6 @@
                           d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z">
                         </path>
                       </svg><span>HTML</span>
-                    </a>
                   </h2>
                   <div class="technology-hover bg-net">Framework for versatile software development
                   </div>
@@ -833,9 +833,6 @@
       </div>
     </div>
   </section>
-
-
-
   <section class="main-section technology d-lg-none d-md-none d-sm-block d-xl-none d-xs-block">
     <div class="container">
       <div class="row">
@@ -1106,9 +1103,6 @@
                 <li class="nav-item">
                   <a class="nav-link" href="#">Services</a>
                 </li>
-                <!-- <li class="nav-item">
-                    <a class="nav-link" href="#">News</a>
-                  </li> -->
                 <li class="nav-item">
                   <a class="nav-link" href="#">FAQ's</a>
               </ul>
@@ -1169,7 +1163,7 @@
       var message = document.getElementById("message_for_email");
       console.log("======", message);
       var subject = encodeURIComponent("Love to connect with you - by ".concat(full_name.value));
-      var body = encodeURIComponent("Hello Team,\n\nThis is to inform you that I am interested in joining your organisation "
+      var body = encodeURIComponent("Hello Team,\n\n"
         .concat(". Please find below mentioned details:\n\n Name: ")
         .concat(full_name.value)
         .concat(" ")
